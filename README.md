@@ -1,2 +1,2 @@
-A game idea trying to implement when I have time
-Checkout [design document](https://github.com/NafieAlhilaly/bug-escape/blob/develop/docs/Game%20Design%20Document.md)
+<div align="center"> <h1>Bug Escape</h1> </div>
+In this game, the player assumes the role of a bug that has escaped the system and is now exploring its surroundings. Unaware of the harm it is causing to the world and objects around it, the bug is being hunted down by security units sent by the system to stop it from harming the world. ... for more Checkout <a href="https://github.com/NafieAlhilaly/bug-escape/blob/develop/docs/Game%20Design%20Document.md">Game Design Document</a>
